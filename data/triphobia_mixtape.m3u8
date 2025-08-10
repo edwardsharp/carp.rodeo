@@ -7,36 +7,42 @@
 # Title: we cannot all be responsible to the oracle at once
 # Artist: triphobia
 # Album: a side
+# Image: data/01-we cannot all be responsible to the oracle at once-cover.jpg
 data/01-we cannot all be responsible to the oracle at once.mp3
 
 #EXTINF:243, triphobia - bonez
 # Title: bonez
 # Artist: triphobia
 # Album: a side
+# Image: data/02-bonez-cover.jpg
 data/02-bonez.mp3
 
 #EXTINF:468, triphobia - paving brickz
 # Title: paving brickz
 # Artist: triphobia
 # Album: a side
+# Image: data/03-paving brickz-cover.jpg
 data/03-paving brickz.mp3
 
 #EXTINF:802, triphobia - i tried 2 tell u
 # Title: i tried 2 tell u
 # Artist: triphobia
 # Album: a side
+# Image: data/04-i tried 2 tell u-cover.jpg
 data/04-i tried 2 tell u.mp3
 
 #EXTINF:631, triphobia - that one time we sang every nirvana song at marsh
 # Title: that one time we sang every nirvana song at marsh
 # Artist: triphobia
 # Album: a side
+# Image: data/05-that one time we sang every nirvana song at marsh-cover.jpg
 data/05-that one time we sang every nirvana song at marsh.mp3
 
 #EXTINF:450, panoply performance laboratory - On the Cranial Nerves of Barbarians II: A Carp Sanctuary [carp tape 01]
 # Title: On the Cranial Nerves of Barbarians II: A Carp Sanctuary [carp tape 01]
 # Artist: panoply performance laboratory
 # Album: a side
+# Image: data/06-On the Cranial Nerves of Barbarians II: A Carp Sanctuary [carp tape 01]-cover.gif
 data/06-On the Cranial Nerves of Barbarians II_ A Carp Sanctuary _LBRACKET_carp tape 01_RBRACKET_.mp3
 
 #EXTINF:168, twon mozz - 5:21:25, 11.23 PM
@@ -142,6 +148,13 @@ data/＂Age of Love＂ The Saltinas _LBRACKET_w8DLjikhLf8_RBRACKET_.mp3
 # Album: b side
 # Image: data/＂Silver Ships＂ The Saltinas [yI1-wJhR7m8]-cover.webp
 data/＂Silver Ships＂ The Saltinas _LBRACKET_yI1-wJhR7m8_RBRACKET_.mp3
+
+#EXTINF:549, TRACE - red stair mix
+# Title: red stair mix
+# Artist: TRACE
+# Album: b side
+# Image: data/red stair mix-cover.jpg
+data/red stair mix.mp3
 
 #EXTINF:412, futuredeath.agency - 520 Parkside Ave 23 isthisatuba streetsoundz
 # Title: 520 Parkside Ave 23 isthisatuba streetsoundz
