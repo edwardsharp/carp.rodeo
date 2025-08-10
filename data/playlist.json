@@ -4,7 +4,8 @@
     "title": "triphobia mixtape",
     "description": "+ ppl we know && <3",
     "createdAt": "2025-08-05T04:29:28.747Z",
-    "updatedAt": "2025-08-10T02:44:10.601Z",
+    "updatedAt": "2025-08-10T22:04:53.260Z",
+    "rev": 9,
     "songCount": 23,
     "totalDuration": 6851.413862,
     "imageExtension": ".jpg",
@@ -21,6 +22,7 @@
       "safeFilename": "01-we cannot all be responsible to the oracle at once.mp3",
       "fileSize": 7691525,
       "mimeType": "audio/mpeg",
+      "sha": "d3d27af9e04bff3fc0b25ae60478c618b450700edcb67fdbe7937d261b7b0371",
       "imageExtension": ".jpg",
       "imageMimeType": "image/jpeg"
     },
@@ -34,6 +36,7 @@
       "safeFilename": "02-bonez.mp3",
       "fileSize": 5958946,
       "mimeType": "audio/mpeg",
+      "sha": "c67d1b3e036d5762935334fdce67c7990eb9438caef9bb91768d32f1e23ce311",
       "imageExtension": ".jpg",
       "imageMimeType": "image/jpeg"
     },
@@ -47,6 +50,7 @@
       "safeFilename": "03-paving brickz.mp3",
       "fileSize": 10889956,
       "mimeType": "audio/mpeg",
+      "sha": "7215ca753d7a15cd87d960d310da863ed91a586e319c8d8ae3a4134a62e5b391",
       "imageExtension": ".jpg",
       "imageMimeType": "image/jpeg"
     },
@@ -60,6 +64,7 @@
       "safeFilename": "04-i tried 2 tell u.mp3",
       "fileSize": 20762634,
       "mimeType": "audio/mpeg",
+      "sha": "2f469fe7c7fb5749865c0864d82d84a3ff563c4d5f8c69b8961ae3562b7b1ae9",
       "imageExtension": ".jpg",
       "imageMimeType": "image/jpeg"
     },
@@ -73,6 +78,7 @@
       "safeFilename": "05-that one time we sang every nirvana song at marsh.mp3",
       "fileSize": 14422245,
       "mimeType": "audio/mpeg",
+      "sha": "aeb5d3872abafb7112f0d62a01e5b92b55c0ed7dfb1194bca8df02820ad2229c",
       "imageExtension": ".jpg",
       "imageMimeType": "image/jpeg"
     },
@@ -86,6 +92,7 @@
       "safeFilename": "06-On the Cranial Nerves of Barbarians II_ A Carp Sanctuary _LBRACKET_carp tape 01_RBRACKET_.mp3",
       "fileSize": 10266138,
       "mimeType": "audio/mpeg",
+      "sha": "0bc2b6a5718e038ed641e1290cfcfea03f214f31d961158f720b44f908a7bbc2",
       "imageExtension": ".gif",
       "imageMimeType": "image/gif"
     },
@@ -99,6 +106,7 @@
       "safeFilename": "Project 2 - 5_21_25, 11.23 PM.m4a",
       "fileSize": 2671194,
       "mimeType": "audio/mp4",
+      "sha": "edb4e13e7c3495d504756a788a9b2c6c4e57a9d46dd28dab1d8880165148d350",
       "imageExtension": ".jpg",
       "imageMimeType": "image/jpeg"
     },
@@ -112,6 +120,7 @@
       "safeFilename": "Lola Kumtus - Classes to Masses _LPAREN_Overlfow-110 remix_RPAREN_.flac",
       "fileSize": 44253304,
       "mimeType": "audio/flac",
+      "sha": "d0c95ef204db4168f1753cc4897beb1c34df338158b44985814acdd95cccd9df",
       "imageExtension": ".jpg",
       "imageMimeType": "image/jpeg"
     },
@@ -125,6 +134,7 @@
       "safeFilename": "Sto Desyat - Rich _LPAREN_2023 live edit_RPAREN_.flac",
       "fileSize": 23299315,
       "mimeType": "audio/flac",
+      "sha": "ae64f9db0b9e29b160c5f6f5292f1b6dd0c9ca1057a216cc29f5fca80c629325",
       "imageExtension": ".jpg",
       "imageMimeType": "image/jpeg"
     },
@@ -138,6 +148,7 @@
       "safeFilename": "Lindelltronics - Maan Tapa _LPAREN_Сто Десять путь_RPAREN_.flac",
       "fileSize": 36493742,
       "mimeType": "audio/flac",
+      "sha": "9342e49a82066b3344c6d210d6845c8d788509cb27ae40b1ce5a67c537cad999",
       "imageExtension": ".jpg",
       "imageMimeType": "image/jpeg"
     },
@@ -151,6 +162,7 @@
       "safeFilename": "05 2 poems 4 u.m4a",
       "fileSize": 11209520,
       "mimeType": "audio/mp4",
+      "sha": "9745bfadb93f53ce26c603818451c407523fb7b46a65bc84e407797d3344844f",
       "imageExtension": ".jpg",
       "imageMimeType": "image/jpeg"
     },
@@ -164,6 +176,7 @@
       "safeFilename": "sea witch - so maybe.m4a",
       "fileSize": 555270,
       "mimeType": "audio/mp4",
+      "sha": "f1676ed3ee6090d4469206e56bf8e03f69f43be1a8519876e2e338f6be5566d1",
       "imageExtension": null,
       "imageMimeType": null
     },
@@ -177,6 +190,7 @@
       "safeFilename": "from twon -- c7e_LBRACKET_j- 1 - 7_2_25, 12.21 AM.m4a",
       "fileSize": 3307805,
       "mimeType": "audio/mp4",
+      "sha": "2c52590dea12068189994b560060fdd07b88bfdd59399a0819b309bc1c3aefcb",
       "imageExtension": ".png",
       "imageMimeType": "image/png"
     },
@@ -190,6 +204,7 @@
       "safeFilename": "feub8.4.17 2 - 7_16_25, 10.56 PM .m4a",
       "fileSize": 1460477,
       "mimeType": "audio/mp4",
+      "sha": "21987d6127c48254e326f8c4ba99fa3bacbcc53d8949fe8540ce0977fc54ea51",
       "imageExtension": ".jpg",
       "imageMimeType": "image/jpeg"
     },
@@ -203,6 +218,7 @@
       "safeFilename": "feub8.4.17 1 - P 25.m4a",
       "fileSize": 455222,
       "mimeType": "audio/mp4",
+      "sha": "988c0e2f0901ffe8b87631e86357cd17d4a423d730c05553580e2ad374046f3e",
       "imageExtension": ".jpg",
       "imageMimeType": "image/jpeg"
     },
@@ -216,6 +232,7 @@
       "safeFilename": "427 1 - 7_13_25, 1.40 AM.m4a",
       "fileSize": 2907108,
       "mimeType": "audio/mp4",
+      "sha": "8a80bfaf4322b92e9b1282573341e77497286449c0cd5cd3db89d8caa016be8d",
       "imageExtension": ".jpg",
       "imageMimeType": "image/jpeg"
     },
@@ -229,6 +246,7 @@
       "safeFilename": "VID_20250729_162220813.m4a",
       "fileSize": 1057085,
       "mimeType": "audio/mp4",
+      "sha": "0d046038b5eab282ed591c483ed7cf06e2e4b824ebc39b7f1974b12f9a7d3fc1",
       "imageExtension": ".webp",
       "imageMimeType": "image/webp"
     },
@@ -242,6 +260,7 @@
       "safeFilename": "VID_20250602_173522265.m4a",
       "fileSize": 3676211,
       "mimeType": "audio/mp4",
+      "sha": "6834d14e0b315a38768bca204ef03da9803c45733ecee03b02e75359ccfe8e59",
       "imageExtension": ".webp",
       "imageMimeType": "image/webp"
     },
@@ -255,6 +274,7 @@
       "safeFilename": "3-Audio 0002 _LBRACKET_2025-05-06 220207_RBRACKET_.m4a",
       "fileSize": 9047444,
       "mimeType": "audio/mp4",
+      "sha": "a2c8eb14581a39e8a3926ee019e25d31f3b44025f16c6a0b83ce0d3465fcfe8e",
       "imageExtension": ".jpg",
       "imageMimeType": "image/jpeg"
     },
@@ -268,6 +288,7 @@
       "safeFilename": "＂Age of Love＂ The Saltinas _LBRACKET_w8DLjikhLf8_RBRACKET_.mp3",
       "fileSize": 2559932,
       "mimeType": "audio/mpeg",
+      "sha": "873a0a67c078b5a44e8f1e2d2d6ac6a514302dfada53d23740d065671cb5b6e5",
       "imageExtension": ".webp",
       "imageMimeType": "image/webp"
     },
@@ -281,6 +302,7 @@
       "safeFilename": "＂Silver Ships＂ The Saltinas _LBRACKET_yI1-wJhR7m8_RBRACKET_.mp3",
       "fileSize": 2954396,
       "mimeType": "audio/mpeg",
+      "sha": "517335e62f12932fb18f352ac6dcaf2743f5a1f812492db29c5d911b23badb38",
       "imageExtension": ".webp",
       "imageMimeType": "image/webp"
     },
@@ -294,6 +316,7 @@
       "safeFilename": "red stair mix.mp3",
       "fileSize": 8779661,
       "mimeType": "audio/mpeg",
+      "sha": "5fd73c51604ab4d94b101802fbc49d95c6ac35f6be5ea9cb4aed53c53e439631",
       "imageExtension": ".jpg",
       "imageMimeType": "image/jpeg"
     },
@@ -307,6 +330,7 @@
       "safeFilename": "520 Parkside Ave 23 isthisatuba streetsoundz.m4a",
       "fileSize": 3417718,
       "mimeType": "audio/mp4",
+      "sha": "e680a8a4443664a2f1b6584675c9506476bf6da90ca2c08a47f1772fa424c902",
       "imageExtension": ".jpg",
       "imageMimeType": "image/jpeg"
     }
